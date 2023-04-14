@@ -15,6 +15,8 @@ Suite à mes études orientées développement, je me suis découvert une passio
 Bah comme vous l’avez compris on va principalement parler pentest (web, dev, réseau, Active directory, tricks) et plein de bêtises dans le genre.
 Mais pas que ! Étant donné qu'il y a beaucoup de blog orienté pentest et très peu orienté blue team un ami va probablement se joindre à moi pour écrire de temps en temps quelques articles sur le sujet.
 
+![](:/assets/img/knwolegeSharing.jpg)
+
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
